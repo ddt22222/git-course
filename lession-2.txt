@@ -1,0 +1,13 @@
+----Bài 1-----
+1. git-init: khởi tạo project
+2. git add <file name>: đẩy code từ vùng working directory sang staging 
+3. git commit -m "massge": đẩy code từ staging sang repository
+
+----Bài 2-----
+a. file 1,2,3 : file tại local
+b. git init: khởi tạo project (tạo file mới)
+c. git commit - m "init project": tạo mới file vừa lên repository
+d. git add file1: add file 1 lên staging
+e. git commit -m "add file1": đẩy file1 lên repository
+f. git add file: add file lên repository
+
